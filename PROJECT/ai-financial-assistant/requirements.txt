@@ -1,0 +1,12 @@
+streamlit
+ibm-watson
+transformers
+torch
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openai
+granite-sdk
+python-dotenv
